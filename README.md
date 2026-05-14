@@ -26,3 +26,8 @@ realised something was wrong.
 They seem to have wrapped the key in a anthropic api and made it look identical but have then got flaws of error codes, and loads of other minor details.
 
 Site of purchase - https://www.g2g.com/uk/categories/claude-ai-gift-cards
+
+
+other versions
+Api key : sk-GOq79pgOiLr3pNJgzLECc9wTyEsLAzjuX85s4DGX4RrDOvEy 
+Documentation they give you [DONT DO ANY OF THESE] : https://zjptxuivqc9k.jp.larksuite.com/docx/XzcNdqKwyoq0G7xEvGPjo4fjp9f?from=from_copylink
